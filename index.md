@@ -1,9 +1,9 @@
 # Yash Dayal's First CS193 Homework
 
 ## My Favorite things about CS193
--I made some really cool friends already
--The TAs are cool
--NO EXAMS
+- I made some really cool friends already
+- The TAs are cool
+- NO EXAMS
 
 ```markdown
 Some formatting tools that I didn't want to forget:
